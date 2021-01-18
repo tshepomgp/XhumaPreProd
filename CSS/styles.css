@@ -1,0 +1,214 @@
+
+#title{
+  background-color: #ffcd3c;
+
+}
+#mid{
+  background-color: #436f8a;
+
+}
+#contactUS{
+  background-color: #436f8a;
+}
+
+#home-slide{
+  text-align: center;
+  color: #444f5a;
+  background-color: #fff;
+  margin-bottom: 0%;
+  margin: 0;
+  font-size: 1rem;
+  height: 460px;
+}
+#products{
+  color: #436f8a;
+   background-color:#ffcd3c;
+}
+#products2{
+  color: #436f8a  ;
+   background-color: #ffcd3c;
+   padding-bottom: 30px;
+   /* padding-top: 20px; */
+    /* height: 300px; */
+
+}
+  /* NAVIGATION BAR */
+  .navbar{
+
+  }
+  .navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+
+  }
+  .nav-item{
+    padding: 0 18px;
+  }
+
+  .nav-link{
+    font-size: 1.2rem;
+    font-weight: Montserrat-light;
+
+  }
+  .press-logo{
+    width:15%;
+    margin: 20px 20px 50px;
+  }
+
+  .carousel-item{
+      padding: 7% 15%;
+  }
+
+  .fiber-img{
+
+   width:45%;
+   float:right;
+   margin-left: 100px;
+  }
+  .voip-img{
+
+   width:30%;
+   float:right;
+   margin-left: 100px;
+  }
+  .data-img{
+
+   width:50%;
+   float:right;
+   margin-left: 50px;
+  }
+
+  .Fiber-text{
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 50px;
+  }
+
+  .data-btn{
+  margin-top: 100px;
+  }
+  .head1-fiber{
+     color:#ffcd3c;
+  }
+
+  .whyus1{
+  height: auto;
+  wdith: auto;
+  /* padding: 0px 80px 0 80px; */
+  border: 10px inset #ffcd3c;
+  background-color: #ffcd3c;
+}
+
+.whyus2{
+height: auto;
+wdith: auto;
+ padding-left: 50px;
+border: 10px inset #ffcd3c;
+background-color: #ffcd3c;
+}
+  .WHY{
+    color: #fff;
+    padding-left: 5px;
+
+      }
+.row-cols{
+  padding-left: 200px;
+}
+#Umngungundlovu{
+  width: 100%;
+}
+
+.FTTH_img{
+  float: right;
+  width: 300px;
+  height: 150px;
+  /* padding-right: 400px; */
+  border-radius: 100%;
+   margin: 0 400px 0 100px;
+
+}
+.VOIP_img{
+  float: left;
+  width: 300px;
+  height: 150px;
+  /* margin-right: 200px; */
+  border-radius: 100%;
+  margin: 0 20px 0px 80px;
+}
+.FTTB_img{
+  float: left;
+  width: 300px;
+  height: 150px;
+  /* margin-right: 200px; */
+  border-radius: 100%;
+  margin: 0 20px 0px 80px;
+}
+.hosting_img{
+  float: right;
+  width: 300px;
+  height: 150px;
+  /* padding-right: 400px; */
+  border-radius: 100%;
+  margin: 0 400px 0 100px;
+}
+.FTTH-CON{
+  /* text-align: center; */
+  /* padding-left: 200px; */
+  padding-left: 150px;
+}
+
+.card-header{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.fas{
+  font-size: 1.5rem;
+}
+.fab{
+  font-size: 1.5rem;
+  color: white;
+  padding-right: 20px;
+}
+.iconz:hover{
+  font-size: 2.5rem;
+}
+.VOIP-CON{
+  padding-left: 150px;
+}
+.Hosting-CON{
+  padding-left: 150px;
+}
+.FTTB-CON{
+  /* text-align: center; */
+  /* padding-left: 200px; */
+  padding-left: 150px;
+
+}
+.ftth-text{
+  padding-left: 100px;
+}
+.FTTB-text{
+  /* margin-left:300px; */
+   padding-right: 600px;
+
+}
+.VOIP-text{
+
+  /* margin-left:300px; */
+  padding-right: 500px ;
+}
+.hosting-text{
+  padding-left: 100px;
+}
+
+
+body{
+  font-family: Montserrat sans-serif;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  text-align: center;
+  }
